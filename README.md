@@ -1,5 +1,12 @@
 🍽️ Restaurant Success Predictor & Recommender
 
+
+Updates and Future Works- 
+Built the app logic flow for the reccomendations engine.
+Future Work - 
+Modularize the code
+Build the frontend and backend
+
 Hey there! Welcome to our awesome restaurant analysis project that combines the power of NLP, machine learning, and some cool recommendation algorithms to help foodies find their next favorite spot!
 
 🌟 What's This All About?
@@ -9,8 +16,7 @@ Figures out how successful a restaurant might be (on a scale of 0-10) by analyzi
 Recommends restaurants to users based on their location, food preferences, and our fancy success scores
 
 🛠️ Tech Stack
-Machine Learning: Hugging Face Transformers, NMF (Non-negative Matrix Factorization)
-Backend: FastAPI, Flask
+Machine Learning: OpenAI (Langchain)
 Data Processing: pandas, scikit-learn
 Frontend: HTML, Bootstrap, JavaScript
 Database: Handles 1.8M+ Yelp reviews like a champ!
